@@ -1,1 +1,0 @@
-This directory contains xonsh AppImage description to build with https://github.com/niess/python-appimage/.
